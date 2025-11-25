@@ -1,2 +1,2 @@
-# gastonsilva-preview.github.io
+# gastonsilva/preview
 Personal website - Preview deployments
